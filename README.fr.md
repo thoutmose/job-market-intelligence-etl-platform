@@ -452,5 +452,3 @@ Apache License 2.0
 Pour les problèmes, questions ou contributions, veuillez ouvrir une issue dans le dépôt.
 
 ---
-
-**Construit avec ❤️ pour l'Ingénierie des Données**
