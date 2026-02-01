@@ -235,7 +235,7 @@ job-market-intelligence-etl-platform/
 
 1. **Cloner le dépôt**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/thoutmose/job-market-intelligence-etl-platform
    cd job-market-intelligence-etl-platform
    ```
 
